@@ -27,3 +27,9 @@ layout: default
 A case study on heart disease prediction to improve the accuracy of classification algorithms. 
 
 [Want more details](./about.html)
+
+## My dream
+
+To being a bank employee with lots of time as free. And I would like to work from there to improve my passion.
+
+
